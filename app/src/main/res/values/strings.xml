@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EFC-master</string>
+    <string name="BotonSiguiente">Iniciar</string>
+    <string name="tv1">Primer Activity</string>
+</resources>
